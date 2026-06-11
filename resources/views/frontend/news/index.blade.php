@@ -23,7 +23,7 @@
                     <hr>
                 </article>
             @empty
-                <h3>No News</h3>
+                <h3>No News available</h3>
                 <p>Unable to find any news for you.</p>
             @endforelse
         </div>
